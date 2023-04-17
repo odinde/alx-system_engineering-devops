@@ -1,1 +1,1 @@
-script that creats a file
+duplicate last line
