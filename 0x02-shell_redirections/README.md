@@ -1,1 +1,1 @@
-hide the sword
+letters only
