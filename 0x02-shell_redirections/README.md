@@ -1,1 +1,1 @@
-print uniqu
+find the word
