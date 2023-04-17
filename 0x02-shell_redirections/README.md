@@ -1,1 +1,1 @@
-letters only
+task 19 a-z
