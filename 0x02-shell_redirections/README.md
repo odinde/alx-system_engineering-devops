@@ -1,1 +1,1 @@
-duplicate last line
+task 11 directory count
