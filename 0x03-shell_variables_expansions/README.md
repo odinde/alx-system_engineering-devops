@@ -1,1 +1,1 @@
- binart to decimal
+combination task 12
