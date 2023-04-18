@@ -1,1 +1,1 @@
-readme task3 paths
+readme task4 global variables
