@@ -1,1 +1,1 @@
-readme task 6
+ global var readme
