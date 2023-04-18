@@ -1,1 +1,1 @@
-print reverse input
+user and home task 22
