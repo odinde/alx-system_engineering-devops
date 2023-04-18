@@ -1,1 +1,1 @@
-delete all c and C
+print reverse input
