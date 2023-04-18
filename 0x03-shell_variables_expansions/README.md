@@ -1,1 +1,1 @@
-task 8 readme
+divide and rule readme
