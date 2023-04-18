@@ -1,1 +1,1 @@
-divide and rule readme
+task 10 love exponent breath
