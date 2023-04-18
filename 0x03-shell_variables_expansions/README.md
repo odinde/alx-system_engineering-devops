@@ -1,1 +1,1 @@
-task 10 love exponent breath
+ binart to decimal
