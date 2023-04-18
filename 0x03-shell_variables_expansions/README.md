@@ -1,1 +1,1 @@
- readme for task 2 path
+readme task3 paths
